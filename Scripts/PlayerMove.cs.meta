@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1eac2046a7466f84391013f65d1b7028
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collectParticle: {fileID: 6854692072126001369, guid: 1702090da104d6e4f8809195f4cbc542, type: 3}
+  - MyscoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
